@@ -95,3 +95,10 @@ Machine Learning & Python Developer
 ## 📜 License
 
 This project is open-source and available under the MIT License."# Crop-Yield-Prediction" 
+
+---
+
+## 🚀 Live Demo
+
+Try the application online: [Crop Yield Prediction App]
+(https://crop-yield-prediction-3ltsvzo5fso7k7jzy5swvb.streamlit.app/)
